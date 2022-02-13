@@ -1,0 +1,43 @@
+{
+	"storyName": "I ha-.. love this character :3",
+	"hideFreeplay": false,
+	"weekBackground": "Dans",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"dan",
+		""
+	],
+	"songs": [
+		[
+			"Epic song",
+			"dan",
+			[
+				66,
+				133,
+				253
+			]
+		],
+		[
+			"Emerald green",
+			"dansuper",
+			[
+				0,
+				113,
+				113
+			]
+		],
+		[
+			"Pink murderer",
+			"danaxe",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekDan"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "drip idle"
+		},
+		{
+			"offsets": [
+				170,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "drip left"
+		},
+		{
+			"offsets": [
+				170,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "drip right"
+		},
+		{
+			"offsets": [
+				170,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "drip down"
+		},
+		{
+			"offsets": [
+				170,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "drip up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/drip",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		165,
+		255
+	],
+	"camera_position": [
+		-110,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

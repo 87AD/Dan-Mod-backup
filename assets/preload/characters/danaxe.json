@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "danaxe idle"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "danaxe left"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "danaxe right"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "danaxe down"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "danaxe up"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "danaxe alt-right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/danaxe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "danaxe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		125,
+		215
+	],
+	"camera_position": [
+		-220,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dan_Phase_2.png"><SubTexture name="Dan_Phase_2 Dan_dance0000" x="0" y="0" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0001" x="544" y="0" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0002" x="1088" y="0" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0003" x="1632" y="0" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0004" x="0" y="544" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0005" x="544" y="544" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0006" x="1088" y="544" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_dance0007" x="1632" y="544" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Right0000" x="0" y="1088" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Right0001" x="544" y="1088" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Right0002" x="1088" y="1088" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Right0003" x="1632" y="1088" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Right0004" x="0" y="1632" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Left0000" x="544" y="1632" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Left0001" x="1088" y="1632" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Left0002" x="1632" y="1632" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Left0003" x="0" y="2176" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Left0004" x="544" y="2176" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Down0000" x="1088" y="2176" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Down0001" x="1632" y="2176" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Down0002" x="0" y="2720" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Down0003" x="544" y="2720" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Down0004" x="1088" y="2720" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Up0000" x="1632" y="2720" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Up0001" x="0" y="3264" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Up0002" x="544" y="3264" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Up0003" x="1088" y="3264" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+<SubTexture name="Dan_Phase_2 Dan_Up0004" x="1632" y="3264" width="544" height="544" frameX="0" frameY="0" frameWidth="544" frameHeight="544" />
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dan.png"><SubTexture name="dan idle0000" x="0" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0001" x="1084" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0002" x="2168" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0003" x="3252" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0004" x="0" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0005" x="1084" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0006" x="2168" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0007" x="3252" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0008" x="0" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0009" x="1084" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0010" x="2168" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0011" x="3252" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan idle0012" x="0" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan left0000" x="1084" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan left0001" x="2168" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan left0002" x="3252" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan left0003" x="0" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan down0000" x="1084" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan down0001" x="2168" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan down0002" x="3252" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan down0003" x="0" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan up0000" x="1084" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan up0001" x="2168" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan up0002" x="3252" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan up0003" x="0" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan right0000" x="1084" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan right0001" x="2168" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan right0002" x="3252" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="dan right0003" x="0" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "donut idle"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "donut left"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "donut right"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "donut down"
+		},
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "donut up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/donut",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dansuper",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		255
+	],
+	"camera_position": [
+		-150,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

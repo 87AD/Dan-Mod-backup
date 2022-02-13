@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dans.png">
+<SubTexture name="Den0000" x="0" y="0" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0001" x="724" y="0" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0002" x="1448" y="0" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0003" x="2172" y="0" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0004" x="0" y="724" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0005" x="724" y="724" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0006" x="1448" y="724" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0007" x="2172" y="724" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0008" x="0" y="1448" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0009" x="724" y="1448" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+<SubTexture name="Den0010" x="1448" y="1448" width="724" height="724" frameX="0" frameY="0" frameWidth="724" frameHeight="724" />
+</TextureAtlas>

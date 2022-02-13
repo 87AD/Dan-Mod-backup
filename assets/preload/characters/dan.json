@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dan right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dan up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		255
+	],
+	"camera_position": [
+		-150,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

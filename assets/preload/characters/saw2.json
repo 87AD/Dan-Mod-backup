@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				200,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "saw2 idle"
+		},
+		{
+			"offsets": [
+				200,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "saw2 right"
+		},
+		{
+			"offsets": [
+				200,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "saw2 left"
+		},
+		{
+			"offsets": [
+				200,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "saw2 down"
+		},
+		{
+			"offsets": [
+				200,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "saw2 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/saw2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "saw",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

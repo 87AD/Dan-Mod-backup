@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danaxe.png"><SubTexture name="danaxe idle0000" x="0" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0001" x="1084" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0002" x="2168" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0003" x="3252" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0004" x="0" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0005" x="1084" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0006" x="2168" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0007" x="3252" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0008" x="0" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0009" x="1084" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0010" x="2168" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0011" x="3252" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe idle0012" x="0" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe left0000" x="1084" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe left0001" x="2168" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe left0002" x="3252" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe left0003" x="0" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe left0004" x="1084" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe down0000" x="2168" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe down0001" x="3252" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe down0002" x="0" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe down0003" x="1084" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe down0004" x="2168" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe up0000" x="3252" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe up0001" x="0" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe up0002" x="1084" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe up0003" x="2168" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0000" x="3252" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0001" x="0" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0002" x="1084" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0003" x="2168" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0004" x="3252" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0005" x="0" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe right0006" x="1084" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0000" x="2168" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0001" x="3252" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0002" x="0" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0003" x="1084" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0004" x="2168" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0005" x="3252" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="danaxe alt-right0006" x="0" y="10840" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+</TextureAtlas>

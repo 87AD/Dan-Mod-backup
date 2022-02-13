@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What is wrong with you"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets do a rap battle"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why do I have to"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Idk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sussy baka"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haha amongus funi"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and also you look like nonsense"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dan",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "stfu"
+		}
+	]
+}

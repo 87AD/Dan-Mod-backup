@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="donut.png"><SubTexture name="donut idle0000" x="0" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0001" x="1084" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0002" x="2168" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0003" x="3252" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0004" x="0" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0005" x="1084" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0006" x="2168" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0007" x="3252" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0008" x="0" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0009" x="1084" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0010" x="2168" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0011" x="3252" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut idle0012" x="0" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0000" x="1084" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0001" x="2168" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0002" x="3252" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0003" x="0" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0004" x="1084" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut up0005" x="2168" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0000" x="3252" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0001" x="0" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0002" x="1084" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0003" x="2168" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0004" x="3252" y="5420" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut left0005" x="0" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0000" x="1084" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0001" x="2168" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0002" x="3252" y="6504" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0003" x="0" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0004" x="1084" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut right0005" x="2168" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0000" x="3252" y="7588" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0001" x="0" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0002" x="1084" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0003" x="2168" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0004" x="3252" y="8672" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0005" x="0" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="donut down0006" x="1084" y="9756" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+</TextureAtlas>

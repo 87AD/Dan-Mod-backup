@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-350,
+		-470
+	],
+	"scale": 0.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "Danport",
+			"idle_name": "Dan"
+		}
+	],
+	"image": "Dan_Dialogue"
+}
